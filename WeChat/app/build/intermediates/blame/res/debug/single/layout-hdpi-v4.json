@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_contacts_header.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_contacts_header.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_image_grid_fragment.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_image_grid_fragment.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_choose_griditem.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_choose_griditem.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_context_menu_for_image.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_context_menu_for_image.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_search_bar_with_padding.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_activity_chat.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_activity_chat.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_row_add_group.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_row_add_group.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_context_menu_for_text.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_context_menu_for_text.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_activity_pick_contact_no_checkbox.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_activity_pick_contact_no_checkbox.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_widget_contact_item.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_widget_contact_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_row_invite_msg.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_row_invite_msg.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_row_group.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_row_group.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_context_menu_for_location.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_context_menu_for_location.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_recorder_activity.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_recorder_activity.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\main_tab_text_item.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\main_tab_text_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_context_menu_for_video.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_context_menu_for_video.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_chat_neterror_item.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_chat_neterror_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_activity_video_call.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_activity_video_call.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\activity_pick_at_user.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\activity_pick_at_user.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_context_menu_for_voice.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_context_menu_for_voice.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\wechat\\WeChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi-v4\\em_activity_voice_call.xml",
+        "source": "D:\\GitHub\\wechat\\WeChat\\app\\src\\main\\res\\layout-hdpi\\em_activity_voice_call.xml"
+    }
+]
